@@ -1,0 +1,3 @@
+EXPORTS
+MiniDumpReadDumpStream=dbgcore_orig.MiniDumpReadDumpStream @1
+MiniDumpWriteDump=dbgcore_orig.MiniDumpWriteDump @2
